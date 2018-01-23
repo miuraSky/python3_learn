@@ -1,0 +1,2 @@
+> C/C++/Java need compile, so slow
+> Like a shell, but more more powerfull: high-level data type, simple code structure, Losse type
