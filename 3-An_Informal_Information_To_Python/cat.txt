@@ -1,0 +1,12 @@
+C:\some
+ame
+C:\some\name
+
+Usage: thingy [OPTIONS]
+     -h                     Display this usage message
+     -H                     Hostname to connect to
+
+Usage: thingy [OPTIONS]
+     -h                     Display this usage message
+     -H                     Hostname to connect to
+
