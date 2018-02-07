@@ -5,7 +5,13 @@ cm = create_multipliers()
 print(cm)
 
 print(cm[0](1))
+print(cm[0](2))
+
 print(cm[1](1))
+print(cm[1](2))
+
 print(cm[2](1))
+print(cm[2](2))
+
 print(cm[3](1))
 print(cm[4](1))
